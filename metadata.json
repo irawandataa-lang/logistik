@@ -1,0 +1,6 @@
+{
+  "name": "WMS Offline - Sistem Gudang Sparepart",
+  "description": "Aplikasi manajemen inventaris dan gudang offline-first lengkap dengan stok masuk/keluar, stock opname, peta rak, dan reorder list.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

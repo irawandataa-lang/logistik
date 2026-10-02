@@ -1,0 +1,244 @@
+No,Item,Rak,Type,Model Unit,Part Number,Part Name,CODE UNIT,Tanggal Update,Tanggal Masuk,Tanggal Keluar,Supplier,Brand,Awal Qty,UOM,IN Qty,Penyesuaian (+) Qty,OUT Qty,Penyesuaian (-) Qty,Akhir Qty,,MIN,MAX,REMARK,9/30/2026,Price,Total,,Status 1th
+1,DPS-2105,101A01,CNU,POMPA,ZMME-0000203,Karet Kopling F3,Tools,30-Sep-26,11-Sep-26,30-Sep-26,Jaya Putra Mandiri,,0,Pcs,0,0,0,0,0,,20,30,ORDER,Fast Moving,"Rp32,500",Rp0,,Fast Moving
+2,DPS-2314,101A02,CNU,POMPA,ZMME-0000204,Karet Kopling F4,DT /LVM,28-Sep-26,22-Aug-26,28-Sep-26,,N-BK,32,Pcs,0,0,0,0,32,,1,2,OVER,Fast Moving,"Rp40,000","Rp1,280,000",,Fast Moving
+3,DPS-1241,101A03,SPT,POMPA,ZMME-0000205,Karet Kopling F5,A2B,26-Sep-26,2-Aug-24,26-Sep-26,,NBK,73,Pcs,0,0,0,0,73,,10,15,OVER,Fast Moving,"Rp32,500","Rp2,372,500",,Fast Moving
+4,DPS-2313,101A04,CNU,POMPA,ZMME-0000206,Karet Kopling F6,DT /LVM,26-Sep-26,15-Jun-25,26-Sep-26,,N-BK,8,Pcs,0,0,0,0,8,,20,30,ORDER,Fast Moving,,Rp0,,Fast Moving
+5,DPS-2404,101A05,SPT,POMPA,ZMME-0000094,Bolt Kopling F3,General,30-Sep-26,16-Sep-26,30-Sep-26,Jaya Putra Mandiri,,8,Pcs,0,0,0,0,8,,5,8,OVER,Fast Moving,"Rp32,500","Rp260,000",,Fast Moving
+6,DPS-2315,101A06,SPT,POMPA,ZMME-0000095,Bolt kopling F4,DT,30-Aug-26,27-Aug-26,30-Aug-26,,,32,Pcs,0,0,0,0,32,,5,8,OVER,Slow Moving,"Rp60,000","Rp1,920,000",,Fast Moving
+7,DPS-1242,101A07,SPT,POMPA,ZMME-0000096,Bolt Kopling F5,A2B,26-Sep-26,16-Sep-26,26-Sep-26,,,16,Pcs,0,0,0,0,16,,5,8,OVER,Fast Moving,,Rp0,,Fast Moving
+8,DPS-1240,101A08,SPT,POMPA,ZMME-0000097,Bolt Kopling F6,A2B,26-Sep-26,15-Jun-25,26-Sep-26,,,42,Pcs,0,0,0,0,42,,5,8,OVER,Fast Moving,"Rp45,000","Rp1,890,000",,Fast Moving
+9,DPS-2528,101A09,SPT,D85ESS,154-27-12320,Bolt Segment,A2B,18-Sep-26,18-Sep-26,21-Aug-26,Jaya Putra Mandiri,,101,Pcs,0,0,0,0,101,,54,81,OVER,Fast Moving,,Rp0,,Fast Moving
+10,DPS-2230,101A10,SPT,D85ESS-2,14X-32-11350,Bolt Master Link,A2B,11-Mar-26,16-Jun-25,11-Mar-26,,-,29,Pcs,0,0,0,0,29,,20,30,AMAN,Dead Moving,"Rp110,000","Rp3,190,000",,Slow Moving
+11,DPS-2719,101A12,SPT,Hino 260 JD,N55542-Z2005D,Bushing Toquerod,DT,28-Sep-26,28-Sep-26,27-Sep-26,,,12,Pcs,0,0,0,0,12,,24,36,ORDER,Fast Moving,"Rp340,000","Rp4,080,000",,Fast Moving
+12,DPS-1772,101A13,SPT,Hino 260,973 011 0040/44080-EW010,Relay Valve Assy,DT,23-Apr-26,24-Mar-26,23-Apr-26,Jaya Putra Mandiri,,0,Pcs,0,0,0,0,0,,1,2,ORDER,Dead Moving,"Rp460,000",Rp0,,Slow Moving
+13,DPS-2510,101A14,CNU,,ZMME-0000087,Bolt Baja M30X100,General,8-Mar-24,17-Dec-23,8-Mar-24,Mitra Gunawan,,8,Pcs,0,0,0,0,8,,10,15,ORDER,Dead Moving,,Rp0,,Dead Moving
+14,DPS-1485,101A15,CNU,A2B,ZMME-0000084,Bolt Baja M24X200,A2B,29-Sep-26,24-Aug-26,29-Sep-26,,,8,Pcs,0,0,0,0,8,,8,12,ORDER,Fast Moving,"Rp120,000","Rp960,000",,Fast Moving
+15,DPS-2508,101A16,CNU,,ZMME-0000083,Bolt Baja M24X150,General,25-Sep-26,25-Sep-26,23-Sep-26,Mitra Gunawan,,10,Pcs,0,0,0,0,10,,10,15,ORDER,Fast Moving,"Rp100,000","Rp1,000,000",,Fast Moving
+16,DPS-1484,101A18,CNU,A2B,ZMME-0000081,Bolt Baja M22X200,A2B,29-Sep-26,7-Sep-26,29-Sep-26,,,1,Pcs,0,0,0,0,1,,10,15,ORDER,Fast Moving,"Rp90,000","Rp90,000",,Fast Moving
+17,DPS-2456,101B01,CNU,,ZMME-0000086,Bolt Baja M24X70,General,16-Apr-26,2-Dec-25,16-Apr-26,Mitra Gunawan,,9,Pcs,0,0,0,0,9,,10,15,ORDER,Dead Moving,"Rp44,000","Rp396,000",,Slow Moving
+18,DPS-2455,101B02,CNU,,ZMME-0000085,Bolt Baja M24X60,General,25-Jul-26,21-Mar-24,25-Jul-26,Mitra Gunawan,,7,Pcs,0,0,0,0,7,,20,30,ORDER,Slow Moving,,Rp0,,Fast Moving
+19,DPS-1489,101B03,SPT,D85ESS-2,01010-51865,Bolt Track Roller,A2B,24-May-26,28-Apr-25,24-May-26,,,0,Pcs,0,0,0,0,0,,1,1,ORDER,Dead Moving,"Rp35,000",Rp0,,Slow Moving
+20,DPS-2639,101B04,SPT,PC 200,20Y-27-11561,Bolt Sprocket,A2B,23-Apr-26,30-Apr-25,23-Apr-26,United Tractor,KOMATSU GENUINE PARTS,0,Pcs,0,0,0,0,0,,,,,Dead Moving,"Rp115,000",Rp0,,Slow Moving
+21,DPS-2307,101B05,SPT,Greder 705-5/D85ESS-2,234-70-32270,Bolt Endbit (Panjang),A2B,17-Apr-26,17-Apr-26,7-Nov-25,Jaya Putra Mandiri,,1,Pcs,0,0,0,0,1,,10,15,ORDER,Dead Moving,"Rp48,000","Rp48,000",,Slow Moving
+22,DPS-1860,101B06,SPT,GD 511A,232-70-12460,"Bolt Endbit Panjang ""GD511A""",A2B,18-Jun-26,27-Jun-25,18-Jun-26,Jaya Putra Mandiri,,17,Pcs,0,0,0,0,17,,30,45,ORDER,Dead Moving,,Rp0,,Slow Moving
+23,DPS-2229,101B07,CNU,"PC400,D85ESS",ZMME-0000148,Bolt Sprocket,A2B,27-Jun-25,27-Jun-25,5-Mar-25,,-,37,Pcs,0,0,0,0,37,,,,,Dead Moving,,Rp0,,Dead Moving
+24,DPS-2531,101B08,SPT,D85ESS,01010-82085,Bolt Carrir Roller,A2B,21-May-26,25-Jun-25,21-May-26,Jaya Putra Mandiri,,46,Pcs,0,0,0,0,46,,8,12,OVER,Dead Moving,,Rp0,,Slow Moving
+25,DPS-1858,101B09,SPT,D85ESS-2,02090-11270,"Bolt Cutting ""D85Ess-2""",A2B,20-Sep-26,19-Jun-26,20-Sep-26,Jaya Putra Mandiri,,0,Pcs,0,0,0,0,0,,48,72,ORDER,Fast Moving,"Rp30,000",Rp0,,Fast Moving
+26,DPS-1859,101B10,SPT,SPT,232-70-12450,"Bolt Cutting Pendek ""GD511A""",A2B,18-Jun-26,19-Nov-25,18-Jun-26,Jaya Putra Mandiri,,19,Pcs,0,0,0,0,19,,20,30,ORDER,Dead Moving,,Rp0,,Slow Moving
+27,DPS-2173,101B11,SPT,GD705-5 & D85ESS-2,234-70-32250,Bolt Cutting (GD-705&D85ESS),A2B,17-Sep-26,22-Feb-26,17-Sep-26,Jaya Putra Mandiri,,4,Pcs,0,0,0,0,4,,12,18,ORDER,Fast Moving,"Rp45,000","Rp180,000",,Fast Moving
+28,DPS-2287,101B12,CNU,PC 200,ZMME-0000093,Bolt Cutting (GD-705&D85ESS),A2B,7-Sep-26,13-Apr-26,7-Sep-26,Jaya Putra Mandiri,,4,Pcs,0,0,0,0,4,,5,8,ORDER,Fast Moving,"Rp67,000","Rp268,000",,Fast Moving
+29,DPS-2605,101B13,SPT,PC200 & PC210,20Y-32-05070-L,SHOE BOLT SQUARE,A2B,2-Sep-26,23-Jul-25,2-Sep-26,Jaya Putra Mandiri,,32,Pcs,0,0,0,0,32,,,,,Fast Moving,,Rp0,,Fast Moving
+30,DPS-2231,101B14,CNU,PC 300,ZMME-0000194,Bolt Papan Shoe,A2B,9-Jul-25,19-Mar-23,9-Jul-25,,-,0,Pcs,0,0,0,0,0,,,,,Dead Moving,,Rp0,,Dead Moving
+31,DPS-1784,101B15,LIB,HINO 260 JD,ZMME-0002029,Bolt Roda Belakang JD,DT,7-Mar-26,9-Apr-25,7-Mar-26,Jaya Putra Mandiri,,9,Set,0,0,0,0,9,,12,18,ORDER,Dead Moving,,Rp0,,Slow Moving
+32,DPS-1783,101B16,LIB,HINO 260 JD,ZMME-0002032,Bolt Roda Depan JD,DT,7-Nov-25,7-Nov-25,18-Jun-25,Jaya Putra Mandiri,,11,Set,0,0,0,0,11,,,,,Dead Moving,,Rp0,,Slow Moving
+33,DPS-1782,101B17,LIB,HINO 260 TI,BC3801RH,Bolt Roda Belakang TI (RH),DT,22-Jul-26,7-Nov-25,22-Jul-26,Jaya Putra Mandiri,,4,Pcs,0,0,0,0,4,,12,18,ORDER,Slow Moving,,Rp0,,Fast Moving
+34,DPS-1781,101B18,SPT,HINO 260 TI,ZMME-0002030,Bolt Roda Belakang TI (LH),DT,18-Jan-26,16-Jun-25,18-Jan-26,Jaya Putra Mandiri,,3,Pcs,0,0,0,0,3,,12,18,ORDER,Dead Moving,,Rp0,,Slow Moving
+35,DPS-1780,101B19,SPT,HINO 260 TI,BF6303RH,Bolt Roda Depan TI (RH),DT,9-Feb-26,16-Jun-25,9-Feb-26,Jaya Putra Mandiri,,19,Pcs,0,0,0,0,19,,,,,Dead Moving,,Rp0,,Slow Moving
+36,DPS-1779,101B20,SPT,HINO 260 TI,BF6303LH,Bolt Roda Depan TI (LH),DT,26-Nov-25,16-Jun-25,26-Nov-25,Jaya Putra Mandiri,,14,Pcs,0,0,0,0,14,,12,18,AMAN,Dead Moving,,Rp0,,Slow Moving
+37,DPS-2338,101B21,CNU,,ZMME-0000109,Bolt Kuningan M14x80,General,29-Jul-25,29-Jul-25,5-Apr-24,Mitra Gunawan,,53,Pcs,0,0,0,0,53,,10,15,OVER,Dead Moving,Rp0,Rp0,,Dead Moving
+38,DPS-2337,101C01,CNU,,ZMME-0000108,Bolt Kuningan M14x50,General,16-Aug-26,18-Mar-26,16-Aug-26,Mitra Gunawan,,66,Pcs,0,0,0,0,66,,20,30,OVER,Slow Moving,"Rp6,000","Rp396,000",,Fast Moving
+39,DPS-2336,101C02,CNU,,ZMME-0000107,Bolt Kuningan M14x30,General,18-Jul-26,17-Oct-25,18-Jul-26,Mitra Gunawan,,46,Pcs,0,0,0,0,46,,20,30,OVER,Slow Moving,,Rp0,,Fast Moving
+40,DPS-2335,101C03,CNU,,ZMME-0000103,Bolt Kuningan M12x100,General,16-Aug-26,4-Nov-25,16-Aug-26,Mitra Gunawan,,27,Pcs,0,0,0,0,27,,20,30,AMAN,Slow Moving,,Rp0,,Fast Moving
+41,DPS-2334,101C04,CNU,,ZMME-0000106,Bolt Kuningan M12x70,General,24-Aug-26,4-Nov-25,24-Aug-26,Mitra Gunawan,,93,Pcs,0,0,0,0,93,,20,30,OVER,Slow Moving,,Rp0,,Fast Moving
+42,DPS-2333,101C05,CNU,,ZMME-0000105,Bolt Kuningan M12x50,General,26-Sep-26,10-Jul-26,26-Sep-26,Mitra Gunawan,,71,Pcs,0,0,0,0,71,,20,30,OVER,Fast Moving,"Rp4,000","Rp284,000",,Fast Moving
+43,DPS-2332,101C06,CNU,,ZMME-0000104,Bolt Kuningan M12x30,General,5-Sep-26,29-Jun-26,5-Sep-26,Mitra Gunawan,,25,Pcs,0,0,0,0,25,,20,30,AMAN,Fast Moving,"Rp3,000","Rp75,000",,Fast Moving
+44,DPS-2331,101C07,CNU,,ZMME-0000054,Bolt Kuningan M10x120,General,27-Sep-26,4-Nov-25,27-Sep-26,Mitra Gunawan,,11,Pcs,0,0,0,0,11,,,,,Fast Moving,,Rp0,,Fast Moving
+45,DPS-2330,101C08,CNU,,ZMME-0000098,Bolt Kuningan M10x110,General,12-Jul-26,29-Jun-26,12-Jul-26,Mitra Gunawan,,25,Pcs,0,0,0,0,25,,20,30,AMAN,Slow Moving,"Rp5,000","Rp125,000",,Fast Moving
+46,DPS-2328,101C09,CNU,,ZMME-0000102,Bolt Kuningan M10x70,General,28-Sep-26,28-Sep-26,25-Sep-26,Mitra Gunawan,,43,Pcs,0,0,0,0,43,,20,30,OVER,Fast Moving,"Rp3,000","Rp129,000",,Fast Moving
+47,DPS-2327,101C10,CNU,,ZMME-0000101,Bolt Kuningan M10x50,General,30-Sep-26,25-Sep-26,30-Sep-26,Mitra Gunawan,,41,Pcs,0,0,0,0,41,,20,30,OVER,Fast Moving,"Rp3,000","Rp123,000",,Fast Moving
+48,DPS-2326,101C11,CNU,,ZMME-0000100,Bolt Kuningan M10x30,General,12-Sep-26,12-Sep-26,26-Aug-26,Mitra Gunawan,,50,Pcs,0,0,0,0,50,,20,30,OVER,Fast Moving,"Rp2,000","Rp100,000",,Fast Moving
+49,DPS-2325,101C12,CNU,,ZMME-0000116,Bolt Kuningan M8x70,General,29-Sep-26,15-May-26,29-Sep-26,Mitra Gunawan,,7,Pcs,0,0,0,0,7,,20,30,ORDER,Fast Moving,"Rp2,000","Rp14,000",,Fast Moving
+50,DPS-2324,101C13,CNU,,ZMME-0000115,Bolt Kuningan M8x50,General,29-Sep-26,22-Jun-26,29-Sep-26,Mitra Gunawan,,50,Pcs,0,0,0,0,50,,30,45,OVER,Fast Moving,"Rp2,000","Rp100,000",,Fast Moving
+51,DPS-2323,101C14,CNU,,ZMME-0000114,Bolt Kuningan M8x30,General,30-Sep-26,12-Sep-26,30-Sep-26,Mitra Gunawan,,24,Pcs,0,0,0,0,24,,20,30,AMAN,Fast Moving,"Rp2,000","Rp48,000",,Fast Moving
+52,DPS-2444,101C15,CNU,,ZMME-0000110,Bolt Kuningan M6x120,General,18-Mar-26,9-Nov-23,18-Mar-26,,,28,Pcs,0,0,0,0,28,,10,15,OVER,Dead Moving,,Rp0,,Slow Moving
+53,DPS-2322,101C16,CNU,,ZMME-0000113,Bolt Kuningan M6x70,General,11-Jun-26,19-Dec-22,11-Jun-26,Mitra Gunawan,,36,Pcs,0,0,0,0,36,,10,15,OVER,Dead Moving,,Rp0,,Slow Moving
+54,DPS-2321,101C17,CNU,,ZMME-0000112,Bolt Kuningan M6x50,General,25-Sep-26,12-Mar-26,25-Sep-26,Mitra Gunawan,,66,Pcs,0,0,0,0,66,,20,30,OVER,Fast Moving,"Rp1,500","Rp99,000",,Fast Moving
+55,DPS-2320,101C18,CNU,,ZMME-0000111,Bolt Kuningan M6x30,General,27-Sep-26,12-Sep-26,27-Sep-26,Mitra Gunawan,,54,Pcs,0,0,0,0,54,,10,15,OVER,Fast Moving,"Rp2,000","Rp108,000",,Fast Moving
+56,DPS-2374,101C19,CNU,,ZMME-0000276,Nut Kuningan M14,General,22-Sep-26,22-Jun-26,22-Sep-26,Mitra Gunawan,,124,Pcs,0,0,0,0,124,,20,30,OVER,Fast Moving,"Rp1,000","Rp124,000",,Fast Moving
+57,DPS-2373,101C20,CNU,,ZMME-0000275,Nut Kuningan M12,General,26-Sep-26,25-Sep-26,26-Sep-26,Mitra Gunawan,,21,Pcs,0,0,0,0,21,,20,30,AMAN,Fast Moving,"Rp2,000","Rp42,000",,Fast Moving
+58,DPS-2372,101C21,CNU,,ZMME-0000274,Nut Kuningan M10,General,30-Sep-26,28-Sep-26,30-Sep-26,Mitra Gunawan,,163,Pcs,0,0,0,0,163,,20,30,OVER,Fast Moving,"Rp1,000","Rp163,000",,Fast Moving
+59,DPS-2371,101C22,CNU,,ZMME-0000278,Nut Kuningan M8,General,29-Sep-26,12-Sep-26,29-Sep-26,Mitra Gunawan,,-9,Pcs,0,0,0,0,-9,,20,30,ORDER,Fast Moving,,Rp0,,Fast Moving
+60,DPS-2370,101C23,CNU,,ZMME-0000277,Nut Kuningan M6,General,27-Sep-26,12-Sep-26,27-Sep-26,Mitra Gunawan,,43,Pcs,0,0,0,0,43,,20,30,OVER,Fast Moving,,Rp0,,Fast Moving
+61,DPS-955,101D01,SPT,TRITON,7803A112,Ac Filter,LVM,30-Sep-26,26-Jul-26,30-Sep-26,Jaya Putra Mandiri,MITSUBISHI MOTORS,4,Pcs,0,0,0,0,4,,10,15,ORDER,Fast Moving,"Rp200,000","Rp800,000",,Fast Moving
+62,DPS-943,101D02,SPT,TRITON,1500A098A,Air Cleaner,LVM,30-Sep-26,26-Jul-26,30-Sep-26,Jaya Putra Mandiri,MITSUBISHI MOTORS,36,Pcs,0,0,0,0,36,,6,9,OVER,Fast Moving,"Rp20,700","Rp745,200",,Fast Moving
+63,DPS-2592,101D03,SPT,"Toyota Hilux 2,4E",23390-0L070,Fuel Filter,LVM,17-Sep-26,3-Jul-26,17-Sep-26,Jaya Putra Mandiri,Toyota Genuine Part,7,Pcs,0,0,0,0,7,,,,,Fast Moving,"Rp150,000","Rp1,050,000",,Fast Moving
+64,DPS-2593,101D04,SPT,"Toyota Hilux 2,4E",90915-YZZD2-82,Oil Filter,LVM,17-Sep-26,3-Jul-26,17-Sep-26,Jaya Putra Mandiri,Toyota Genuine Part,6,Pcs,0,0,0,0,6,,,,,Fast Moving,"Rp75,000","Rp450,000",,Fast Moving
+65,DPS-2594,101D05,SPT,"Toyota Hilux 2,4E",17801-0L050,Air Cleaner,LVM,17-Sep-26,3-Jul-26,17-Sep-26,Jaya Putra Mandiri,Toyota Genuine Part,8,Pcs,0,0,0,0,8,,2,4,OVER,Fast Moving,"Rp258,000","Rp2,064,000",,Fast Moving
+66,DPS-2595,101D06,SPT,"Toyota Hilux 2,4E",87139-0K030,Filter AC,LVM,21-Sep-26,3-Jul-26,21-Sep-26,Jaya Putra Mandiri,Toyota Genuine Part,5,Pcs,0,0,0,0,5,,,,,Fast Moving,"Rp125,000","Rp625,000",,Fast Moving
+67,DPS-2602,101D07,SPT,TRITON HDx,16405A000P,Fuel Filter,LVM,29-Sep-26,19-Sep-26,29-Sep-26,Jaya Putra Mandiri,Mitsubishi Motor,15,Pcs,0,0,0,0,15,,4,6,OVER,Fast Moving,"Rp450,000","Rp6,750,000",,Fast Moving
+68,DPS-2618,101D08,SPT,TRITON HDx,16546A000P,Air Cleaner,LVM,29-Sep-26,30-Jan-26,29-Sep-26,Barito Berlian Motor,Mitsubishi Motor,12,Pcs,0,0,0,0,12,,2,5,OVER,Fast Moving,"Rp575,000","Rp6,900,000",,Fast Moving
+69,DPS-947,101D09,SPT,ISUZU ELF (LVM-GA-13),I6-94156 052-0,Air Cleaner,Support,3-Jul-26,3-Jul-26,9-Sep-25,Jaya Putra Mandiri,ISUZU GENUINE PARTS,1,Pcs,0,0,0,0,1,,1,2,ORDER,Dead Moving,"Rp200,000","Rp200,000",,Slow Moving
+70,DPS-2443,101E03,LIB,D85ESS,JBL-0012,Auto Condensor,A2B,19-Feb-26,3-Nov-25,19-Feb-26,Anugerah jaya AC,Stall,2,Pcs,0,0,0,0,2,,3,4,ORDER,Dead Moving,,Rp0,,Slow Moving
+71,DPS-2288,101E04,LIB,Sarana (GLX),JBL-0505,Condensor,Support,14-Sep-26,11-Nov-25,14-Sep-26,,,1,Pcs,0,0,0,0,1,,2,3,ORDER,Fast Moving,,Rp0,,Fast Moving
+72,DPS-2516,101E05,SPT,GD 535-5,SWJ-475A,Condensor Assy,A2B,3-Mar-25,3-Mar-25,,Jaya Putra Mandiri,,1,Pcs,0,0,0,0,1,,,,,Dead Moving,"Rp3,800,000","Rp3,800,000",,Dead Moving
+73,DPS-1508,101E07,LIB,HINO 260 JD,JK447610-8620 AM,Evaporator,DT,22-Sep-26,24-Jun-26,22-Sep-26,Anegerah Jaya Ac,DENSO,3,Pcs,0,0,0,0,3,,2,3,OVER,Fast Moving,"Rp650,000","Rp1,950,000",,Fast Moving
+74,DPS-927,101F01,SPT,PC 200-8,600-185-4100,Air Cleaner Assy,A2B,30-Jul-26,16-Jul-25,30-Jul-26,,KOMATSU GENUINE PARTS,9,Pcs,0,0,0,0,9,,2,4,OVER,Slow Moving,,Rp0,,Fast Moving
+75,DPS-928,101F02,SPT,"GD535-5,706,PC 365",600-185-5100,Air Cleaner Assy,A2B,23-Sep-26,6-Aug-26,23-Sep-26,,KOMATSU GENUINE PARTS,0,Pcs,0,0,0,0,0,,4,6,ORDER,Fast Moving,"Rp3,006,990",Rp0,,Fast Moving
+76,DPS-929,101F03,SPT,"PC 400-8,WA500",600-185-6100,Air Cleaner Assy,A2B,21-Sep-26,27-Sep-25,21-Sep-26,United Tractor,KOMATSU GENUINE PARTS,5,Set,0,0,0,0,5,,4,6,AMAN,Fast Moving,,Rp0,,Fast Moving
+77,DPS-1517,101F04,SPT,PC 300-8Mo,600-185-4200,Air Cleaner Assy,A2B,25-May-26,27-Sep-25,25-May-26,United Tractor,KOMATSU GENUINE PARTS,0,Pcs,0,0,0,0,0,,2,4,ORDER,Dead Moving,"Rp1,450,000",Rp0,,Slow Moving
+78,DPS-2259,101F05,SPT,GD535-5,600-185-5110,Air Cleaner Outter,A2B,21-Apr-26,23-Sep-23,21-Apr-26,United Tractor,,0,Pcs,0,0,0,0,0,,2,4,ORDER,Dead Moving,"Rp1,250,000",Rp0,,Slow Moving
+79,DPS-956,101F06,SPT,POMPA Mitshubisi,FR 1883,Air Cleaner Outer,Support,24-Jun-24,21-Jun-24,24-Jun-24,,FLEETGUARD,1,Pcs,0,0,0,0,1,,,,,Dead Moving,"Rp348,600","Rp348,600",,Dead Moving
+80,DPS-2426,102A01,CNU,,ZMME-0000080,Bolt Baja M22X120,General,26-Aug-26,22-Jan-24,26-Aug-26,Mitra Gunawan,,5,Pcs,0,0,0,0,5,,10,15,ORDER,Slow Moving,,Rp0,,Fast Moving
+81,DPS-2366,102A02,CNU,,ZMME-0000082,Bolt Baja M22x60,General,26-Jan-26,26-Jan-26,29-Jan-25,Mitra Gunawan,,10,Pcs,0,0,0,0,10,,10,15,ORDER,Dead Moving,"Rp33,000","Rp330,000",,Slow Moving
+82,DPS-2365,102A03,CNU,,ZMME-0000076,Bolt Baja M20x120,General,21-Sep-26,29-Jun-26,21-Sep-26,Mitra Gunawan,,18,Pcs,0,0,0,0,18,,20,30,ORDER,Fast Moving,"Rp40,000","Rp720,000",,Fast Moving
+83,DPS-2437,102A04,CNU,,ZMME-0000077,Bolt Baja M20x200,General,26-Sep-26,18-Sep-26,26-Sep-26,Mitra Gunawan,,6,Pcs,0,0,0,0,6,,10,15,ORDER,Fast Moving,"Rp80,000","Rp480,000",,Fast Moving
+84,DPS-2364,102A05,CNU,,ZMME-0000075,Bolt Baja M20x100,General,10-Sep-26,22-May-26,10-Sep-26,Mitra Gunawan,,22,Pcs,0,0,0,0,22,,20,30,AMAN,Fast Moving,"Rp33,000","Rp726,000",,Fast Moving
+85,DPS-2584,102A06,CNU,PC 300,ZMME-0000079,Bolt Baja M20X70,A2B,26-Aug-26,13-Jul-26,26-Aug-26,Jaya Putra Mandiri,,13,Pcs,0,0,0,0,13,,10,15,AMAN,Slow Moving,"Rp27,000","Rp351,000",,Fast Moving
+86,DPS-2363,102A07,CNU,,ZMME-0000078,Bolt Baja M20x50,General,28-Jul-25,28-Jul-25,16-Apr-25,Mitra Gunawan,,31,Pcs,0,0,0,0,31,,20,30,OVER,Dead Moving,,Rp0,,Dead Moving
+87,DPS-2454,102A08,CNU,,ZMME-0000074,Bolt Baja M18X70,General,24-Sep-26,7-Aug-26,24-Sep-26,,,24,Pcs,0,0,0,0,24,,10,15,OVER,Fast Moving,"Rp18,000","Rp432,000",,Fast Moving
+88,DPS-2361,102A09,CNU,,ZMME-0000073,Bolt Baja M18x60,General,18-Sep-26,18-Sep-26,15-Sep-26,Mitra Gunawan,,19,Pcs,0,0,0,0,19,,20,30,ORDER,Fast Moving,"Rp16,000","Rp304,000",,Fast Moving
+89,DPS-2360,102A10,CNU,,ZMME-0000072,Bolt Baja M18x50,General,25-Sep-26,13-Jul-26,25-Sep-26,Mitra Gunawan,,14,Pcs,0,0,0,0,14,,20,30,ORDER,Fast Moving,"Rp13,000","Rp182,000",,Fast Moving
+90,DPS-2530,102A11,CNU,Lain-lain (Fastener/Perlengkapan Umum),ZMME-0000071,Bolt Baja M18 X 40,General,11-Jul-26,22-Jun-26,11-Jul-26,,,41,Pcs,0,0,0,0,41,,20,30,OVER,Slow Moving,"Rp12,000","Rp492,000",,Fast Moving
+91,DPS-2359,102A12,CNU,,ZMME-0000070,Bolt Baja M16x70,General,7-Sep-26,7-Sep-26,1-Sep-26,Mitra Gunawan,,45,Pcs,0,0,0,0,45,,20,30,OVER,Fast Moving,"Rp11,000","Rp495,000",,Fast Moving
+92,DPS-531,102A14,SPT,HINO 260 TI,ZMME-0000321,U-Bolt Belakang TI M27x93x400,All Unit,5-May-26,4-Oct-20,5-May-26,,,3,,0,0,0,0,3,,,,,Dead Moving,,Rp0,,Slow Moving
+93,DPS-533,102A15,SPT,HINO 260 JD,ZMME-0000320,U-Bolt Belakang JD M27x93x400,DT,28-Sep-26,21-Sep-26,28-Sep-26,,,6,Pcs,0,0,0,0,6,,10,15,ORDER,Fast Moving,"Rp180,000","Rp1,080,000",,Fast Moving
+94,DPS-530,102A16,SPT,HINO 260 TI,ZMME-0000323,"U-Bolt Depan TI M20X1,5PX83X11""",DT,28-Sep-26,24-Aug-26,28-Sep-26,Mitra Gunawan,,7,Pcs,0,0,0,0,7,,,,,Fast Moving,"Rp100,000","Rp700,000",,Fast Moving
+95,DPS-532,102A17,SPT,HINO 260 JD,IBK HN05-1 M20x83x250mm,U-Bolt Depan JD,DT,16-Sep-26,24-Aug-26,16-Sep-26,Mitra Gunawan,,9,Pcs,0,0,0,0,9,,6,9,OVER,Fast Moving,"Rp90,000","Rp810,000",,Fast Moving
+96,DPS-1305,102A18,SPT,HINO 260,ZMME-0000322,U-Bolt Chasis 60CM,DT,22-Sep-26,22-Sep-26,21-Sep-26,,,4,Pcs,0,0,0,0,4,,,,,Fast Moving,"Rp170,000","Rp680,000",,Fast Moving
+97,DPS-2339,102B01,CNU,,ZMME-0000088,Bolt Baja M6x50,General,19-Sep-26,19-Aug-26,19-Sep-26,Mitra Gunawan,,62,Pcs,0,0,0,0,62,,20,30,OVER,Fast Moving,"Rp2,000","Rp124,000",,Fast Moving
+98,DPS-2340,102B02,CNU,,ZMME-0000089,Bolt Baja M8X30,General,9-Sep-26,19-Aug-26,9-Sep-26,Mitra Gunawan,,46,Pcs,0,0,0,0,46,,20,30,OVER,Fast Moving,"Rp2,000","Rp92,000",,Fast Moving
+99,DPS-2341,102B03,CNU,,ZMME-0000090,Bolt Baja M8x40,General,19-Sep-26,29-Jun-26,19-Sep-26,Mitra Gunawan,,45,Pcs,0,0,0,0,45,,20,30,OVER,Fast Moving,"Rp3,000","Rp135,000",,Fast Moving
+100,DPS-2342,102B04,CNU,,ZMME-0000091,Bolt Baja M8x50,General,23-Sep-26,2-Nov-23,23-Sep-26,Mitra Gunawan,,41,Pcs,0,0,0,0,41,,20,30,OVER,Fast Moving,,Rp0,,Fast Moving
+101,DPS-2343,102B05,CNU,,ZMME-0000092,Bolt Baja M8x70,General,21-Jun-26,2-Feb-23,21-Jun-26,Mitra Gunawan,,62,Pcs,0,0,0,0,62,,20,30,OVER,Dead Moving,,Rp0,,Slow Moving
+102,DPS-2344,102B06,CNU,,ZMME-0000055,Bolt Baja M10x30,General,2-Aug-26,25-Jul-26,2-Aug-26,Mitra Gunawan,,50,Pcs,0,0,0,0,50,,20,30,OVER,Slow Moving,"Rp3,500","Rp175,000",,Fast Moving
+103,DPS-2345,102B07,CNU,,ZMME-0000056,Bolt Baja M10x50,General,14-Sep-26,19-Aug-26,14-Sep-26,Mitra Gunawan,,41,Pcs,0,0,0,0,41,,20,30,OVER,Fast Moving,"Rp4,500","Rp184,500",,Fast Moving
+104,DPS-2346,102B08,CNU,,ZMME-0000057,Bolt Baja M10x60,General,12-Sep-26,17-Oct-25,12-Sep-26,Mitra Gunawan,,45,Pcs,0,0,0,0,45,,20,30,OVER,Fast Moving,,Rp0,,Fast Moving
+105,DPS-2431,102B09,CNU,Lock pin a2b,ZMME-0000051,Bolt Baja M10x80,A2B,12-Feb-26,3-Jun-25,12-Feb-26,Mitra Gunawan,,30,Pcs,0,0,0,0,30,,10,15,OVER,Dead Moving,,Rp0,,Slow Moving
+106,DPS-2433,102B10,CNU,Lock pin a2b,ZMME-0000016,Bolt Baja M10x120,A2B,13-Jul-26,13-Jul-26,4-May-26,Mitra Gunawan,,27,Pcs,0,0,0,0,27,,20,30,AMAN,Slow Moving,"Rp9,000","Rp243,000",,Fast Moving
+107,DPS-2347,102B11,CNU,,ZMME-0000058,Bolt Baja M12x30,,25-Sep-26,10-Aug-26,30-Sep-26,,,31,Pcs,0,0,0,0,31,,20,30,OVER,Fast Moving,"Rp5,000","Rp155,000",,Fast Moving
+108,DPS-2348,102B12,CNU,,ZMME-0000059,Bolt Baja M12x50,General,25-Sep-26,10-Jul-26,25-Sep-26,Mitra Gunawan,,31,Pcs,0,0,0,0,31,,20,30,OVER,Fast Moving,"Rp7,000","Rp217,000",,Fast Moving
+109,DPS-2349,102B13,CNU,,ZMME-0000060,Bolt Baja M12x70,General,16-Sep-26,19-Aug-26,16-Sep-26,Mitra Gunawan,,47,Pcs,0,0,0,0,47,,20,30,OVER,Fast Moving,"Rp7,000","Rp329,000",,Fast Moving
+110,DPS-2432,102B14,CNU,Lock pin a2b,ZMME-0000052,Bolt Baja M12 x 80,A2B,14-Aug-26,12-Mar-26,14-Aug-26,Mitra Gunawan,,43,Pcs,0,0,0,0,43,,10,15,OVER,Slow Moving,"Rp9,000","Rp387,000",,Fast Moving
+111,DPS-2350,102B15,CNU,,ZMME-0000062,Bolt Baja M14x30,General,30-Sep-26,7-Jul-26,30-Sep-26,Mitra Gunawan,,81,Pcs,0,0,0,0,81,,20,30,OVER,Fast Moving,"Rp7,000","Rp567,000",,Fast Moving
+112,DPS-2351,102B16,CNU,,ZMME-0000063,Bolt Baja M14x40,General,24-Sep-26,19-Aug-26,24-Sep-26,Mitra Gunawan,,19,Pcs,0,0,0,0,19,,20,30,ORDER,Fast Moving,"Rp8,000","Rp152,000",,Fast Moving
+113,DPS-2352,102B17,CNU,,ZMME-0000064,Bolt Baja M14x50,General,30-Sep-26,25-Sep-26,30-Sep-26,Mitra Gunawan,,22,Pcs,0,0,0,0,22,,15,23,AMAN,Fast Moving,"Rp9,000","Rp198,000",,Fast Moving
+114,DPS-2353,102B18,CNU,,ZMME-0000065,Bolt Baja M14x70,General,20-Aug-26,19-Aug-26,20-Aug-26,Mitra Gunawan,,29,Pcs,0,0,0,0,29,,20,30,AMAN,Slow Moving,"Rp10,000","Rp290,000",,Fast Moving
+115,DPS-2354,102B19,CNU,,ZMME-0000066,Bolt Baja M14x80,General,22-Sep-26,19-Aug-26,22-Sep-26,Mitra Gunawan,,33,Pcs,0,0,0,0,33,,20,30,OVER,Fast Moving,"Rp11,000","Rp363,000",,Fast Moving
+116,DPS-2355,102B20,CNU,,ZMME-0000061,Bolt Baja M14x100,General,22-Sep-26,4-Aug-25,22-Sep-26,Mitra Gunawan,,11,Pcs,0,0,0,0,11,,20,30,ORDER,Fast Moving,,Rp0,,Fast Moving
+117,DPS-2356,102B21,CNU,,ZMME-0000067,Bolt Baja M16x30,General,26-Aug-26,11-May-26,26-Aug-26,Mitra Gunawan,,73,Pcs,0,0,0,0,73,,20,30,OVER,Slow Moving,"Rp8,000","Rp584,000",,Fast Moving
+118,DPS-2357,102B22,CNU,,ZMME-0000068,Bolt Baja M16x40,General,26-Sep-26,19-Aug-26,26-Sep-26,Mitra Gunawan,,42,Pcs,0,0,0,0,42,,20,30,OVER,Fast Moving,"Rp9,000","Rp378,000",,Fast Moving
+119,DPS-2358,102B23,CNU,,ZMME-0000069,Bolt Baja M16x50,General,27-Sep-26,7-Sep-26,27-Sep-26,Mitra Gunawan,,30,Pcs,0,0,0,0,30,,20,30,OVER,Fast Moving,"Rp10,000","Rp300,000",,Fast Moving
+120,DPS-2375,102C01,CNU,,ZMME-0000272,Nut Baja M6,General,19-Aug-26,19-Aug-26,21-Jun-26,Mitra Gunawan,,76,Pcs,0,0,0,0,76,,25,38,OVER,Slow Moving,,Rp0,,Fast Moving
+121,DPS-2376,102C02,CNU,,ZMME-0000273,Nut Baja M8,General,23-Sep-26,19-Aug-26,23-Sep-26,Mitra Gunawan,,391,Pcs,0,0,0,0,391,,30,45,OVER,Fast Moving,,Rp0,,Fast Moving
+122,DPS-2377,102C03,CNU,,ZMME-0000263,Nut Baja M10,General,14-Sep-26,19-Aug-26,14-Sep-26,Mitra Gunawan,69,790,Pcs,0,0,0,0,790,,25,38,OVER,Fast Moving,"Rp3,500","Rp2,765,000",,Fast Moving
+123,DPS-2378,102C04,CNU,,ZMME-0000264,Nut Baja M12,General,30-Sep-26,19-Aug-26,30-Sep-26,Mitra Gunawan,,1202,Pcs,0,0,0,0,1202,,25,38,OVER,Fast Moving,,Rp0,,Fast Moving
+124,DPS-2379,102C05,CNU,,ZMME-0000265,Nut Baja M14,General,30-Sep-26,18-Sep-26,30-Sep-26,Mitra Gunawan,,474,Pcs,0,0,0,0,474,,25,38,OVER,Fast Moving,"Rp19,000","Rp9,006,000",,Fast Moving
+125,DPS-2380,102C06,CNU,,ZMME-0000266,Nut Baja M16,General,27-Sep-26,7-Sep-26,27-Sep-26,Mitra Gunawan,,476,Pcs,0,0,0,0,476,,10,15,OVER,Fast Moving,,Rp0,,Fast Moving
+126,DPS-2381,102C07,CNU,,ZMME-0000267,Nut Baja M18,General,25-Sep-26,18-Sep-26,25-Sep-26,Mitra Gunawan,,498,Pcs,0,0,0,0,498,,10,15,OVER,Fast Moving,,Rp0,,Fast Moving
+127,DPS-2382,102C08,CNU,,ZMME-0000268,Nut Baja M20,General,26-Sep-26,13-Jul-26,26-Sep-26,Mitra Gunawan,,89,Pcs,0,0,0,0,89,,10,15,OVER,Fast Moving,,Rp0,,Fast Moving
+128,DPS-2383,102C09,CNU,,ZMME-0000269,Nut Baja M22,General,29-Sep-26,15-Jul-26,29-Sep-26,Mitra Gunawan,,3,Pcs,0,0,0,0,3,,10,15,ORDER,Fast Moving,"Rp14,000","Rp42,000",,Fast Moving
+129,DPS-2384,102C10,CNU,,ZMME-0000270,Nut Baja M24,General,29-Sep-26,25-Sep-26,29-Sep-26,Mitra Gunawan,,4,Pcs,0,0,0,0,4,,10,15,ORDER,Fast Moving,"Rp19,000","Rp76,000",,Fast Moving
+130,DPS-2385,102C11,CNU,,ZMME-0000271,Nut Baja M30,General,16-Aug-25,16-Aug-25,,Mitra Gunawan,,4,Pcs,0,0,0,0,4,,25,38,ORDER,Dead Moving,,Rp0,,Dead Moving
+131,DPS-2386,102C12,CNU,,ZMME-0000382,Waser Baja M6,General,27-Sep-26,21-Sep-26,27-Sep-26,PELITA MOTOR,,67,Pcs,0,0,0,0,67,,30,45,OVER,Fast Moving,"Rp1,000","Rp67,000",,Fast Moving
+132,DPS-2387,102C13,CNU,,ZMME-0000383,Waser Baja M8,General,29-Sep-26,21-Sep-26,29-Sep-26,PELITA MOTOR,,2,Pcs,0,0,0,0,2,,30,45,ORDER,Fast Moving,"Rp1,000","Rp2,000",,Fast Moving
+133,DPS-2388,102C14,CNU,,ZMME-0000375,Waser Baja M10,General,30-Sep-26,21-Sep-26,30-Sep-26,PELITA MOTOR,,43,Pcs,0,0,0,0,43,,30,45,AMAN,Fast Moving,"Rp1,000","Rp43,000",,Fast Moving
+134,DPS-2389,102C15,CNU,,ZMME-0000377,Waser Baja M12,General,30-Sep-26,21-Sep-26,30-Sep-26,PELITA MOTOR,,36,Pcs,0,0,0,0,36,,30,45,AMAN,Fast Moving,"Rp2,000","Rp72,000",,Fast Moving
+135,DPS-2390,102C16,CNU,,ZMME-0000376,Waser Baja M14,General,30-Sep-26,25-Sep-26,30-Sep-26,PELITA MOTOR,,46,Pcs,0,0,0,0,46,,30,45,OVER,Fast Moving,"Rp2,000","Rp92,000",,Fast Moving
+136,DPS-2391,102C17,CNU,,ZMME-0000378,Waser Baja M16,General,26-Sep-26,21-Sep-26,26-Sep-26,PELITA MOTOR,,50,Set,0,0,0,0,50,,30,45,OVER,Fast Moving,"Rp2,000","Rp100,000",,Fast Moving
+137,DPS-2446,102C18,CNU,,ZMME-0000379,Waser Baja M18,General,25-Sep-26,18-Sep-26,25-Sep-26,PELITA MOTOR,,43,Pcs,0,0,0,0,43,,30,45,AMAN,Fast Moving,"Rp3,000","Rp129,000",,Fast Moving
+138,DPS-2392,102C19,CNU,,ZMME-0000380,Waser Baja M20,General,21-Sep-26,19-Jun-26,21-Sep-26,PELITA MOTOR,,20,Pcs,0,0,0,0,20,,30,45,ORDER,Fast Moving,"Rp3,000","Rp60,000",,Fast Moving
+139,DPS-2393,102C20,CNU,,ZMME-0000381,Waser Baja M24,General,14-Sep-26,14-Sep-26,7-Sep-26,PELITA MOTOR,,19,Pcs,0,0,0,0,19,,30,45,ORDER,Fast Moving,"Rp5,000","Rp95,000",,Fast Moving
+140,DPS-2394,102C21,CNU,,ZMME-0000384,Waser Kuningan M16,General,1-Sep-26,28-Jul-25,1-Sep-26,Mitra Gunawan,,50,Pcs,0,0,0,0,50,,30,45,OVER,Slow Moving,,Rp0,,Fast Moving
+141,DPS-1016,102D01,SPT,TRITON HDx,1770A338,Element Fuel Filter,LVM,30-Sep-26,19-Sep-26,30-Sep-26,Jaya Putra Mandiri,TOYOTA GENUINE PARTS,25,Pcs,0,0,0,0,25,,1,2,OVER,Fast Moving,"Rp446,000","Rp11,150,000",,Fast Moving
+142,DPS-1019,102D02,SPT,TRITON HDx,1230A186A,Oil Filter,LVM,30-Sep-26,19-Sep-26,30-Sep-26,,MITSUBISHI MOTORS,26,Pcs,0,0,0,0,26,,,,,Fast Moving,"Rp180,000","Rp4,680,000",,Fast Moving
+143,DPS-2290,102D03,SPT,TRITON GLS NEW,1230A182,Oil Filter,LVM,29-Sep-26,19-Sep-26,29-Sep-26,,,12,Pcs,0,0,0,0,12,,,,,Fast Moving,,Rp0,,Fast Moving
+144,DPS-2640,102D04,SPT,Spectek,WB202,Oil Filter,A2B,14-Jul-26,14-Jul-26,,Jaya Putra Mandiri/MTW,,5,Pcs,0,0,0,0,5,,2,3,OVER,Slow Moving,"Rp80,000","Rp400,000",,Fast Moving
+145,DPS-1081,102D05,SPT,POMPA MITSUBISHID14,ME004099,Oil Filter,Support,25-Sep-26,16-Sep-26,25-Sep-26,,MITSUBISHI FUSO,6,Pcs,0,0,0,0,6,,,,,Fast Moving,"Rp75,000","Rp450,000",,Fast Moving
+146,DPS-1082,102D06,SPT,POMPA MITSUBISHID14,ME035829,Fuel Filter,Support,25-Sep-26,16-Sep-26,25-Sep-26,,MITSUBISHI FUSO,5,Pcs,0,0,0,0,5,,2,4,OVER,Fast Moving,"Rp80,000","Rp400,000",,Fast Moving
+147,DPS-2318,102D07,SPT,TRITON,1500A608A,Air Cleaner Assy,LVM,29-Sep-26,1-Apr-26,29-Sep-26,Jaya Putra Mandiri,,8,Pcs,0,0,0,0,8,,2,4,OVER,Fast Moving,"Rp200,000","Rp1,600,000",,Fast Moving
+148,DPS-942,102D08,SPT,Dyna Rino,BHL10-01131,Air Cleaner Assy,Support,15-Feb-25,15-Feb-25,29-Jan-25,,ARPI,3,Pcs,0,0,0,0,3,,1,3,OVER,Dead Moving,,Rp0,,Dead Moving
+149,DPS-1026,102D09,SPT,"ISUZU ELF NHR55,NKR71 (Sarana)",I6-97329 911-0,Oil Filter,Support,3-Jul-26,3-Jul-26,9-Sep-25,,ISUZU GENUINE PARTS,15,Pcs,0,0,0,0,15,,,,,Dead Moving,"Rp125,000","Rp1,875,000",,Slow Moving
+150,DPS-2203,102D10,SPT,Dyna Rino,23390-78450,Element Fuel Filter,DT,1-Oct-24,3-Sep-23,1-Oct-24,Jaya Putra Mandiri,TOYOTA GENUINE PARTS,6,Pcs,0,0,0,0,6,,2,6,OVER,Dead Moving,"Rp175,000","Rp1,050,000",,Dead Moving
+151,DPS-1021,102D12,SPT,TRITON GLX,1770A012,Fuel Filter,LVM,6-Jan-23,6-Jan-23,23-Sep-22,Jaya Putra Mandiri,MITSUBISHI MOTORS,21,Pcs,0,0,0,0,21,,6,10,OVER,Dead Moving,"Rp220,000","Rp4,620,000",,Dead Moving
+152,DPS-1087,102D13,SPT,MITSUBISHI PS135 (BUS-01),ME013307,Oil Filter,Support,11-Apr-25,3-Nov-24,11-Apr-25,,MITSUBISHI FUSO,4,Pcs,0,0,0,0,4,,,,,Dead Moving,"Rp154,000","Rp616,000",,Dead Moving
+153,DPS-1637,102D14,SPT,MITSUBISHI PS135 (Sarana),ME017246,Air Cleaner Assy,Support,22-Jun-26,11-Jul-22,22-Jun-26,Jaya Putra Mandiri,TIGA BERLIAN,2,Pcs,0,0,0,0,2,,1,2,OVER,Dead Moving,"Rp295,000","Rp590,000",,Slow Moving
+154,DPS-1080,102D15,SPT,POMPA MITSUBISHID16,ME034611,Oil Filter,Support,11-Feb-25,11-Feb-25,13-Dec-23,,MITSUBISHI FUSO,4,Pcs,0,0,0,0,4,,,,,Dead Moving,"Rp180,000","Rp720,000",,Dead Moving
+155,DPS-2216,102D17,SPT,Dyna Rino,23414-LAA10,Fuel Filter,DT,4-Jun-24,4-Jun-24,6-Nov-23,Jaya Putra Mandiri,AEGIS Genuine Parts,5,Pcs,0,0,0,0,5,,3,5,OVER,Dead Moving,"Rp145,000","Rp725,000",,Dead Moving
+156,DPS-1025,102D18,SPT,"ISUZU ELF NHR55,NKR71 (Sarana)",I6-13240023-0,Fuel Filter,Support,3-Jul-26,3-Jul-26,9-Sep-25,,ISUZU GENUINE PARTS,4,Pcs,0,0,0,0,4,,,,,Dead Moving,"Rp96,000","Rp384,000",,Slow Moving
+157,DPS-944,102D19,SPT,MITSUBISHI PS100 / Pompa,MB120390,Air Cleaner,Support,19-Aug-26,1-Feb-25,19-Aug-26,Jaya Putra Mandiri,TIGA BERLIAN,6,Pcs,0,0,0,0,6,,1,4,OVER,Slow Moving,"Rp148,000","Rp888,000",,Fast Moving
+158,DPS-1703,102E03,SPT,HINO 260,1751110480,Compressor Ac R134a (SDH7H15),DT,23-Sep-26,23-Sep-26,18-Sep-26,Anugrah Jaya Ac,SANDEN,4,Pcs,0,0,0,0,4,,1,2,OVER,Fast Moving,"Rp3,450,000","Rp13,800,000",,Fast Moving
+159,DPS-2442,102E04,LIB,D85ESS,JK447200-2700,Compressor AC Denso,A2B,18-Apr-26,18-Apr-26,13-Jan-26,Anugerah jaya AC,DENSO,2,Pcs,0,0,0,0,2,,1,2,OVER,Dead Moving,"Rp3,250,000","Rp6,500,000",,Slow Moving
+160,DPS-2033,102E05,LIB,PC 300-8Lc,JK447280-0590,Compressor Ac,A2B,30-Oct-25,30-Oct-25,30-Jul-25,Anugerah Jaya Ac,COOL GEAR,1,Pcs,0,0,0,0,1,,1,2,ORDER,Dead Moving,,Rp0,,Slow Moving
+161,DPS-2031,102E06,LIB,PC 300-8 & PC 400-8,JBF-1006,Blower Ac,A2B,4-Jul-24,4-Jul-24,2-Jul-24,Anugerah Jaya Ac,,1,Pcs,0,0,0,0,1,,2,4,ORDER,Dead Moving,"Rp850,000","Rp850,000",,Dead Moving
+162,DPS-2045,102E07,LIB,"D85ESS-2, GD535",JK446600-5680,Evaporator,A2B,18-May-26,18-May-26,29-Apr-26,Anegerah Jaya Ac,COOL GEAR,1,Pcs,0,0,0,0,1,,1,2,ORDER,Dead Moving,"Rp390,000","Rp390,000",,Slow Moving
+163,DPS-2589,102E08,LIB,"PC-200,300",1008,Evaporator,A2B,30-Sep-25,17-Feb-25,30-Sep-25,Anugerah jaya AC,Stal,1,Pcs,0,0,0,0,1,,2,3,ORDER,Dead Moving,"Rp1,150,000","Rp1,150,000",,Dead Moving
+164,DPS-2034,102E09,SPT,Hino 260,0206H,Condensor Ac,DT,27-Nov-25,4-Sep-24,27-Nov-25,Anugerah Jaya Ac,POKKA,2,Pcs,0,0,0,0,2,,1,2,OVER,Dead Moving,"Rp650,000","Rp1,300,000",,Slow Moving
+165,DPS-2300,102E10,LIB,Hino 260 JD,JBL-0002,Condensor,DT,24-Jun-26,24-Jun-26,22-Jun-26,Anugrah Jaya Ac,Staal,2,Pcs,0,0,0,0,2,,,,,Dead Moving,"Rp550,000","Rp1,100,000",,Slow Moving
+166,DPS-2096,102F01,SPT,Hino 280 Euro4,17801-JAB60,Air Cleaner / Outer,DT,27-Sep-26,14-Sep-26,27-Sep-26,Mitrahino,HINO ORIGINAL PART (HOP),7,Pcs,0,0,0,0,7,,2,3,OVER,Fast Moving,"Rp401,000","Rp2,807,000",,Fast Moving
+167,DPS-1005,102F02,SPT,HITACHI ZX470,4654745,Element Hydraulic Filter,A2B,11-Feb-25,29-Jan-23,11-Feb-25,Hexindo Adi Perkasa,HITACHI GENUINE PARTS,4,Pcs,0,0,0,0,4,,1,4,OVER,Dead Moving,"Rp1,562,607","Rp6,250,428",,Dead Moving
+168,DPS-932,102F03,SPT,HITACHI ZX470,4466268 / 4464697,Air Cleaner Inner,A2B,16-May-25,16-May-25,1-Mar-25,,HITACHI GENUINE PARTS,2,Pcs,0,0,0,0,2,,1,2,OVER,Dead Moving,"Rp1,363,949","Rp2,727,898",,Dead Moving
+169,DPS-931,102F04,SPT,HITACHI ZX470,4466269,Air Cleaner Outer,A2B,16-May-25,16-May-25,12-Mar-25,,HITACHI GENUINE PARTS,2,Pcs,0,0,0,0,2,,4,6,ORDER,Dead Moving,,Rp0,,Dead Moving
+170,DPS-2467,102F05,SPT,Crusher GS 12,AA2960 (AF26433/ AF26434 ),Cleaner Assy,Support,17-Sep-26,3-Jun-26,17-Sep-26,Jaya Putra Mandiri,,1,Pcs,0,0,0,0,1,,,,,Fast Moving,"Rp1,195,000","Rp1,195,000",,Fast Moving
+171,DPS-930,102F06,SPT,D85ESS-2,6125-81-7032,Air Cleaner Assy,A2B,20-Sep-26,12-Aug-26,20-Sep-26,United tractor,KOMATSU GENUINE PARTS,0,Pcs,0,0,0,0,0,,2,3,ORDER,Fast Moving,"Rp847,770",Rp0,,Fast Moving
+172,DPS-1610,103A01,SPT,HINO 260,P502364,Oil Filter,DT,29-Sep-26,13-Sep-26,29-Sep-26,Jaya Putra Mandiri,DONALDSON,29,Pcs,0,0,0,0,29,,,,,Fast Moving,"Rp185,000","Rp5,365,000",,Fast Moving
+173,DPS-1049,103A02,SPT,"PC 300-8, GD706",P553639 / J8613000,Oil Filter,A2B,29-Sep-26,13-Sep-26,29-Sep-26,,DONALDSON,6,Pcs,0,0,0,0,6,,,,,Fast Moving,"Rp250,000","Rp1,500,000",,Fast Moving
+174,DPS-1073,103A03,SPT,PC 400-8,P553200,Water Saparator,A2B,24-Sep-26,13-Sep-26,24-Sep-26,Jaya Putra Mandiri,DONALDSON,10,Pcs,0,0,0,0,10,,,,,Fast Moving,"Rp325,000","Rp3,250,000",,Fast Moving
+175,DPS-2809,103A04,SPT,WP,P955606,Water Saparator,Support,31-Aug-26,31-Aug-26,15-Aug-26,,Donaldson,6,Pcs,0,0,0,0,6,,,,ORDER,Slow Moving,"Rp223,100","Rp1,338,600",,Fast Moving
+176,DPS-354,103A05,SPT,PC 400-8,208-60-71180,Filter Neck,A2B,10-Mar-25,12-Nov-23,10-Mar-25,Jaya Putra Mandiri,KOMATSU GENUINE PARTS,0,Pcs,0,0,0,0,0,,,,,Dead Moving,"Rp1,567,500",Rp0,,Dead Moving
+177,DPS-2596,103B01,SPT,Genset Liebherr,P551670 / 3310169,Oil Filter,Support,2-Dec-25,30-Nov-25,2-Dec-25,Jaya Putra Mandiri,DONALDSON,5,Pcs,0,0,0,0,5,,,,,Dead Moving,,Rp0,,Slow Moving
+178,DPS-2597,103B02,SPT,Genset Liebherr,P550777 / 3889311,Oil Filter,Support,2-Dec-25,30-Nov-25,2-Dec-25,,DONALDSON,2,Pcs,0,0,0,0,2,,1,2,OVER,Dead Moving,,Rp0,,Slow Moving
+179,DPS-2598,103B03,SPT,Genset Liebherr,J8640076 / 4058965,Coolan Filter,Support,2-Dec-25,30-Nov-25,2-Dec-25,Jaya Putra Mandiri,DONALDSON,2,Pcs,0,0,0,0,2,,1,2,OVER,Dead Moving,,Rp0,,Slow Moving
+180,DPS-2599,103B04,SPT,Genset Liebherr,J8621006 / 4095189,Fuel Filter,Support,2-Dec-25,30-Nov-25,2-Dec-25,Jaya Putra Mandiri,DONALDSON,2,Pcs,0,0,0,0,2,,1,2,OVER,Dead Moving,,Rp0,,Slow Moving
+181,DPS-2202,103B05,SPT,GD535-5,07030-00252,Case Brather Transmisi Hyd tandem Drive 2 Pcs,A2B,19-Sep-26,19-Sep-26,27-Aug-26,United Tractor,KOMATSU GENUINE PARTS,12,Pcs,0,0,0,0,12,,2,4,OVER,Fast Moving,"Rp399,910","Rp4,798,920",,Fast Moving
+182,DPS-2116,103B06,SPT,"PC400,WA320,PC200",P502574,Element Hyd Breather,A2B,29-Sep-26,13-Sep-26,29-Sep-26,Mantha Anubawa Sentosa,DONALDSON,8,Pcs,0,0,0,0,8,,,,,Fast Moving,"Rp90,000","Rp720,000",,Fast Moving
+183,DPS-1074,103B07,SPT,PC 200-8,P505961,Water Saparator,A2B,29-Sep-26,13-Sep-26,29-Sep-26,Mantha Anubawa Sentosa,DONALDSON,5,Pcs,0,0,0,0,5,,,,,Fast Moving,"Rp100,000","Rp500,000",,Fast Moving
+184,DPS-1737,103B08,SPT,"GD535-5,GD705",J8630713,Oil Filter Transmision,A2B,27-Aug-26,5-Aug-26,27-Aug-26,Jaya Putra Mandiri,DONALDSON,6,Pcs,0,0,0,0,6,,,,,Slow Moving,"Rp580,000","Rp3,480,000",,Fast Moving
+185,DPS-1068,103B09,SPT,"PC200,PC300, GD706",J8620750 / J8621314 / P551315,Fuel Filter,A2B,29-Sep-26,31-Aug-26,29-Sep-26,Mantha Anubawa Sentosa,DONALDSON,7,Pcs,0,0,0,0,7,,,,,Fast Moving,"Rp209,000","Rp1,463,000",,Fast Moving
+186,DPS-1098,103B10,SPT,POMPA RENAULT,P554004,Oil Filter,A2B/DT,22-Sep-26,16-Sep-26,22-Sep-26,,DONALDSON,4,Pcs,0,0,0,0,4,,2,6,AMAN,Fast Moving,,Rp0,,Fast Moving
+187,DPS-1097,103B11,SPT,POMPA RENAULT,P553004,Fuel Filter,A2B,28-Sep-26,16-Sep-26,28-Sep-26,,DONALDSON,7,Pcs,0,0,0,0,7,,4,6,OVER,Fast Moving,,Rp0,,Fast Moving
+188,DPS-1077,103B12,SPT,POMPA IVECO,P550342,Oil Fitler,Support,26-Aug-26,3-Jul-26,26-Aug-26,Jaya Putra Mandiri,DONALDSON,13,Pcs,0,0,0,0,13,,,,,Slow Moving,"Rp305,000","Rp3,965,000",,Fast Moving
+189,DPS-1050,103C01,SPT,"PC 200-8, GD535-5,WA320-5",P558615,Oil Filter,A2B,27-Sep-26,13-Sep-26,27-Sep-26,,DONALDSON,8,Pcs,0,0,0,0,8,,10,15,ORDER,Fast Moving,"Rp65,000","Rp520,000",,Fast Moving
+190,DPS-1116,103C02,SPT,"D85ESS-2, PC 400-8",J8640075,Corosion Resistor,A2B,24-Sep-26,31-Aug-26,24-Sep-26,Mantha Anubawa Sentosa,DONALDSON,7,Pcs,0,0,0,0,7,,1,2,OVER,Fast Moving,,Rp0,,Fast Moving
+191,DPS-2578,103C03,SPT,"PC 300-8, PC 210",J8624113,Element Racor,A2B,29-Sep-26,13-Sep-26,29-Sep-26,Mantha Anubawa Sentosa,DONALDSON,6,Pcs,0,0,0,0,6,,,,,Fast Moving,"Rp127,500","Rp765,000",,Fast Moving
+192,DPS-1075,103C04,SPT,"PC 300-8, GD706,D31",J8620561,Element Fuel Filter,A2B,27-Sep-26,23-Jul-26,27-Sep-26,Mantha Anubawa Sentosa,DONALDSON,7,Pcs,0,0,0,0,7,,,,,Fast Moving,"Rp685,000","Rp4,795,000",,Fast Moving
+193,DPS-2658,103C05,SPT,D31,J8612110,Engine Oil Filter / Cartidge,,12-Sep-25,12-Sep-25,6-Jul-25,Jaya Putra Mandiri,Donalson,3,Pcs,0,0,0,0,3,,2,4,AMAN,Dead Moving,,Rp0,,Dead Moving
+194,DPS-1732,103C06,SPT,Sakai,P550335,Fuel Filter,Support,3-Jul-26,3-Jul-26,21-Jun-26,Jaya Putra Mandiri,DONALDSON,3,Pcs,0,0,0,0,3,,,,,Dead Moving,"Rp55,000","Rp165,000",,Slow Moving
+195,DPS-1124,103C07,SPT,ALL MAKES,FL3802,Oil Filter,General,24-Sep-26,25-Apr-26,24-Sep-26,Jaya Putra Mandiri,FHAS,4,Pcs,0,0,0,0,4,,,,,Fast Moving,"Rp90,000","Rp360,000",,Fast Moving
+196,DPS-1118,103C08,SPT,YANMAR,P550048,Fuel Filter,Support,28-Sep-26,31-Aug-26,28-Sep-26,Mantha Anubawa Sentosa,DONALDSON,42,Pcs,0,0,0,0,42,,16,24,OVER,Fast Moving,"Rp52,005","Rp2,184,210",,Fast Moving
+197,DPS-1119,103C09,SPT,YANMAR,P550056,Element Fuel Filter,Support,28-Sep-26,31-Aug-26,28-Sep-26,Mantha Anubawa Sentosa,DONALDSON,52,Pcs,0,0,0,0,52,,6,9,OVER,Fast Moving,"Rp54,651","Rp2,841,852",,Fast Moving
+198,DPS-1120,103C10,SPT,YANMAR,P550162,Oil Filter,Support,28-Sep-26,31-Aug-26,28-Sep-26,Mantha Anubawa Sentosa,DONALDSON,48,Pcs,0,0,0,0,48,,,,,Fast Moving,"Rp56,500","Rp2,712,000",,Fast Moving
+199,DPS-1012,103D01,SPT,"HITACHI ZX470, SAKAI526D",P550596,Oil Filter,"Support,A2B",30-Sep-26,13-Sep-26,30-Sep-26,Mantha Anubawa Sentosa,DONALDSON,6,Pcs,0,0,0,0,6,,6,9,ORDER,Fast Moving,"Rp285,000","Rp1,710,000",,Fast Moving
+200,DPS-1010,103D02,SPT,HITACHI ZX470,P550391,Fuel Filter (primary),A2B,30-Sep-26,13-Sep-26,30-Sep-26,Mantha Anubawa Sentosa,DONALDSON,7,Pcs,0,0,0,0,7,,4,6,OVER,Fast Moving,"Rp75,000","Rp525,000",,Fast Moving
+272,DPS-2580,105A04,SPT,Scania 360/410 XT,2611114,Vibration (Engine Mounthing Depan),SC,22-Aug-26,28-Jul-26,22-Aug-26,Mas,,5,Pcs,0,0,0,0,5,,4,6,AMAN,Slow Moving,"Rp2,600,000","Rp13,000,000",,Fast Moving
+273,DPS-2896,105A05,SPT,Scania P410XT,2164195,Release Bearing,SCANIA,9-Aug-26,9-Aug-26,,,,0,Pcs,0,0,0,0,0,,,,ORDER,Slow Moving,,Rp0,,Fast Moving
+274,DPS-2894,105A06,SPT,Scania P410XT,2979056,Clutch Cover,SCANIA,9-Aug-26,9-Aug-26,,,,0,Pcs,0,0,0,0,0,,,,ORDER,Slow Moving,,Rp0,,Fast Moving
+275,DPS-2895,105A07,SPT,Scania P410XT,2399800,Disc Clutch,SCANIA,9-Aug-26,9-Aug-26,,,,0,Pcs,0,0,0,0,0,,,,ORDER,Slow Moving,,Rp0,,Fast Moving
+276,DPS-1044,105B01,SPT,PC 400-8,208-60-71123,Hydraulic Filter,A2B,16-Sep-26,25-Jul-26,16-Sep-26,United Tractor,KOMATSU GENUINE PARTS,2,Pcs,0,0,0,0,2,,,,,Fast Moving,"Rp1,613,500","Rp3,227,000",,Fast Moving
+277,DPS-2013,105B03,SPT,PC 500Lc,600-319-5410,Fuel Filter,A2B,29-Sep-26,14-Sep-26,29-Sep-26,United Tractor,KOMATSU GENUINE PARTS,11,Pcs,0,0,0,0,11,,3,5,OVER,Fast Moving,"Rp2,653,980","Rp29,193,780",,Fast Moving
+278,DPS-1108,105B04,SPT,"D85ESS-2 , GD 511A",07063-01054,Hydraulic Filter,A2B,14-Sep-26,23-Jan-26,14-Sep-26,,KOMATSU GENUINE PARTS,14,Pcs,0,0,0,0,14,,,,,Fast Moving,"Rp109,060","Rp1,526,840",,Fast Moving
+421,DPS-2413,107B18,SPT,Scania P360 XT / P410 XT,2244944,Center Bolt FR,SC,3-Sep-26,6-Apr-26,3-Sep-26,United Tractor,,7,Set,0,0,0,0,7,,3,5,OVER,Fast Moving,"Rp1,143,600","Rp8,005,200",,Fast Moving
+422,DPS-2655,107C01,SPT,Scania P360/410XT,2376753/2773898,Rubber Bush,SC,24-Sep-26,24-Sep-26,1-Sep-26,Mantha Anubawa Sentosa,DT Spare Part,18,Pcs,0,0,0,0,18,,,,,Fast Moving,"Rp112,575","Rp2,026,350",,Fast Moving
+423,DPS-2646,107C02,SPT,Scania P360/410XT,2280638,Bush / Mounting Cabin / Bushing Stabilizer,SC,16-Sep-26,17-Jul-26,16-Sep-26,United Tractor,Scania Genuine Parts,0,Pcs,0,0,0,0,0,,4,5,ORDER,Fast Moving,"Rp942,000",Rp0,,Fast Moving
+501,DPS-2319,107F01,SPT,Scania 410,2655428,Cab Air Filter,SC,10-Sep-26,3-Sep-26,10-Sep-26,United Tractor,,8,Pcs,0,0,0,0,8,,1,2,OVER,Fast Moving,"Rp2,266,050","Rp18,128,400",,Fast Moving
+502,DPS-2159,107F02,SPT,Scania P360CB6X4,2869184,Filter Differential / Filter Gardan,SC,14-Aug-26,14-Aug-26,5-Aug-26,United Tractor,Scania Genuine Parts,15,Pcs,0,0,0,0,15,,,,,Slow Moving,"Rp907,800","Rp13,617,000",,Fast Moving
+527,DPS-2804,107G08,SPT,XCMG DH400,4511002704/05,Air Cleaner Assy,XC-12-17,30-Sep-26,27-Aug-26,30-Sep-26,Gaya Makmur Mobil,,28,Pcs,0,0,0,0,28,,,,ORDER,Fast Moving,"Rp1,933,000","Rp54,124,000",,Fast Moving
+528,DPS-711,108A01,SPT,HINO 260,110x100x90,Bushing Trunnion,DT,28-Sep-26,28-Sep-26,26-Sep-26,,AUTO BUSHINGS,6,Pcs,0,0,0,0,6,,3,4,OVER,Fast Moving,"Rp95,000","Rp570,000",,Fast Moving
+541,DPS-581,108B03,SPT,HINO 260 JD,41421-EV040,Diaphragm,DT,21-Sep-26,21-Sep-26,21-Sep-26,,HINO GENUINE PARTS,4,Pcs,0,0,0,0,4,,,,,Fast Moving,75000,"Rp300,000",,Fast Moving
+650,DPS-1927,109A02,SPT,TRITON HDx,3880A036,"Hub Assy, FR Wheel (Mining SP)",LVM,28-Sep-26,28-Sep-26,15-Sep-26,Barito Berlian Motor,MITSUBISHI MOTORS,2,Pcs,0,0,0,0,2,,1,2,OVER,Fast Moving,"Rp2,300,000","Rp4,600,000",,Fast Moving
+652,DPS-13,109A04,SPT,TRITON,4600A106,Kampas Rem Belakang,LVM,28-Sep-26,28-Sep-26,21-Jul-26,Aneka Motor,MITSUBISHI MOTORS,4,Pcs,0,0,0,0,4,,,,,Fast Moving,"Rp375,000","Rp1,500,000",,Fast Moving
+746,DPS-2607,109G05,SPT,XCMG DH400T,459353190A/459353110,Fuel Filter Element,XCMG,30-Sep-26,22-Sep-26,30-Sep-26,Gaya Makmur Mobil,Genuine Parts,47,Pcs,0,0,0,0,47,,2,3,OVER,Fast Moving,"Rp170,000","Rp7,990,000",,Fast Moving
+747,DPS-1494,110A01,SPT,TRITON HDx,3815A584/3815A312,Shaft Axle RH,LVM,8-Sep-26,22-Jul-26,8-Sep-26,Jaya Putra Mandiri,MITSUBISHI MOTORS,2,Pcs,0,0,0,0,2,,2,3,ORDER,Fast Moving,"Rp5,670,000","Rp11,340,000",,Fast Moving
+749,DPS-1495,110A03,SPT,TRITON HDx,3815A583/3815A311,Shaft Axle LH,LVM,27-Sep-26,22-Jul-26,27-Sep-26,Jaya Putra Mandiri,MITSUBISHI MOTORS,2,Pcs,0,0,0,0,2,,,,,Fast Moving,"Rp4,824,000","Rp9,648,000",,Fast Moving
+750,DPS-1928,110A04,SPT,TRITON HDx,4162A289,"Shock Absorber,RR Susp",LVM,7-Sep-26,7-Sep-26,21-Jul-26,Barito Berlian Motor,MITSUBISHI MOTORS,4,Pcs,0,0,0,0,4,,,,,Fast Moving,975000,"Rp3,900,000",,Fast Moving
+836,DPS-2604,110F05,SPT,XCMG DH400T,803163316A,Oil Filter,XCMG,30-Sep-26,22-Sep-26,30-Sep-26,Gaya Makmur Mobil,Genuine Parts,32,Pcs,0,0,0,0,32,,,,,Fast Moving,"Rp1,510,000","Rp48,320,000",,Fast Moving
+837,DPS-2635,110F06,SPT,XCMG Hanvan G7,459337233,Breather Hydraulic,XCMG,30-Sep-26,3-Apr-26,30-Sep-26,Gaya Makmur Mobil,,27,Pcs,0,0,0,0,27,,1,2,OVER,Fast Moving,"Rp114,000","Rp3,078,000",,Fast Moving
+843,DPS-1573,110F12,SPT,TRITON,1465A041,Injector Assy,LVM,14-Jan-26,14-Jan-26,20-Dec-25,Mitsubishi Motors,MITSUBISHI MOTORS,12,Pcs,0,0,0,0,12,,12,18,ORDER,Dead Moving,"Rp5,700,000","Rp68,400,000",,Slow Moving
+857,DPS-1967,111A05,CNU,Consumables,ZMME-0000161,Freon AC 134a,Electric,28-Sep-26,25-Sep-26,28-Sep-26,Anugerah Jaya Ac,KLEA,1,Pcs,0,0,0,0,1,,2,3,ORDER,Fast Moving,"Rp2,800,000","Rp2,800,000",,Fast Moving
+1126,DPS-584,113A08,CNU,,ST-OL-009,Oil Compressor Ac SANDEN 250ml,LVM,30-Sep-26,28-Sep-26,30-Sep-26,,SANDEN,9,Pcs,0,0,0,0,9,,6,9,OVER,Fast Moving,"Rp250,000","Rp2,250,000",,Fast Moving
+1130,DPS-586,113A12,CNU,,ZMME-0000251,Minyak Rem DOT-3 Fluid Merah 1 Liter,DT /LVM,25-Sep-26,25-Sep-26,21-Sep-26,,SEIKEN GENUINE,20,Pcs,0,0,0,0,20,,6,12,OVER,Fast Moving,"Rp90,000","Rp1,800,000",,Fast Moving
+1132,DPS-583,113A14,CNU,Consumables,ZMME-0000387,WD-40,Tools,28-Sep-26,28-Sep-26,28-Sep-26,,WD-40,53,Pcs,0,0,0,0,53,,36,54,AMAN,Fast Moving,"Rp90,000","Rp4,770,000",,Fast Moving
+1133,DPS-582,113A15,CNU,,ZMME-0000144,Co Contact Cleaner,DT /LVM,29-Sep-26,28-Sep-26,29-Sep-26,,CEDANCE INDONESIA,43,Pcs,0,0,0,0,43,,24,36,OVER,Fast Moving,"Rp67,000","Rp2,881,000",,Fast Moving
+1134,DPS-588,113A16,,,ZMME-0002033,Oil ATF 1 Liter,,30-Sep-26,25-Sep-26,30-Sep-26,,,18,Pcs,0,0,0,0,18,,,,,Fast Moving,"Rp135,000","Rp2,430,000",,Fast Moving
+1977,DPS-2450,COUNTAINER B3,CNU,ELECTRIC,MF95D31 R,Accu N70,DT,30-Sep-26,13-Aug-26,30-Sep-26,Persada Batavia Diesel,Solite,8,Pcs,0,0,0,0,8,,6,9,AMAN,Fast Moving,"Rp1,223,874","Rp9,790,992",,Fast Moving
+1978,DPS-2451,COUNTAINER B3,CNU,ELECTRIC (Sarana All Unit),MF95D31 L,Accu N70,Support,26-Sep-26,13-Aug-26,26-Sep-26,Persada Batavia Diesel,Solite,11,Pcs,0,0,0,0,11,,6,9,OVER,Fast Moving,"Rp1,223,874","Rp13,462,614",,Fast Moving
+1982,DPS-2537,COUNTAINER B3,CNU,Scania,N170,ACCU N170,SC,2-Sep-26,16-Jul-26,2-Sep-26,Persada Batavia Diesel,Solite,6,Pcs,0,0,0,0,6,,4,6,OVER,Fast Moving,"Rp3,132,883","Rp18,797,298",,Fast Moving
+1986,DPS-964,COUNTAINER B3,CNU,APD,ZMME-0000298,Sarung Tangan Bintik,Tools,30-Sep-26,26-Sep-26,30-Sep-26,,CEMERLANG,2392,Psng,0,0,0,0,2392,,6,9,OVER,Fast Moving,"Rp3,042","Rp7,276,464",,Fast Moving
+1992,DPS-2805,COUNTAINER GET,SPT,Hitachi 490 LC & 550 LC,SBC04SP,Tooth Bucket,EX-422 & EX-459,30-Sep-26,30-Sep-26,25-Sep-26,Hexindo,QLOCK,35,Pcs,0,0,0,0,35,,,,ORDER,Fast Moving,"Rp2,060,898","Rp72,131,430",,Fast Moving
+1993,DPS-2806,COUNTAINER GET,SPT,Hitachi 490 LC & 550 LC,SBP04,Pin Lock Tooth Bucket,EX-422 & EX-459,30-Sep-26,30-Sep-26,25-Sep-26,Hexindo,QLOCK,25,Pcs,0,0,0,0,25,,,,ORDER,Fast Moving,"Rp945,643","Rp23,641,075",,Fast Moving
+1994,DPS-2807,COUNTAINER GET,SPT,Hitachi 490 LC & 550 LC,SBQD07,Damper,EX-422 & EX-459,30-Sep-26,30-Sep-26,25-Sep-26,Hexindo,QLOCK,50,Pcs,0,0,0,0,50,,,,ORDER,Fast Moving,"Rp195,300","Rp9,765,000",,Fast Moving
+1996,DPS-2831,COUNTAINER GET,SPT,HITACHI ZX470,V51T,Kuku Bucket,A2B,24-Sep-26,24-Sep-26,21-Sep-26,,,30,Pcs,0,0,0,0,30,,,,OVER,Fast Moving,"Rp1,100,000","Rp33,000,000",,Fast Moving
+1997,DPS-2832,COUNTAINER GET,SPT,HITACHI ZX470,V51P,Pin Lock Tooth Bucket,A2B,26-Sep-26,24-Sep-26,26-Sep-26,,,51,Pcs,0,0,0,0,51,,,,OVER,Fast Moving,1150000,"Rp58,650,000",,Fast Moving
+2000,DPS-2846,COUNTAINER GET,SPT,PC 500-8 / PC 400-8/HITACHI,XS50TV,Kuku Bucket,All Unit A2B,29-Sep-26,18-Sep-26,29-Sep-26,,,34,Pcs,0,0,0,0,34,,,,OVER,Fast Moving,"Rp975,000","Rp33,150,000",,Fast Moving
+2022,DPS-2835,COUNTAINER GET,SPT,D85ESS-2,154-70-11314,Cutting Edge (lubang 8),A2B,20-Sep-26,4-Aug-26,20-Sep-26,,,2,Pcs,0,0,0,0,2,,,,OVER,Fast Moving,"Rp2,170,000","Rp4,340,000",,Fast Moving
+2034,DPS-2859,COUNTAINER TYRE,SPT,SCANIA,ZMME-0003005,TYRE MAXXAM 1200/R24,DT,30-Sep-26,16-Aug-26,30-Sep-26,,,3,Pcs,0,0,0,0,3,,,,OVER,Fast Moving,"Rp5,849,550","Rp17,548,650",,Fast Moving
+2038,DPS-2858,COUNTAINER TYRE,SPT,HINO 260/Hino 260 TI,ZMME-0003001,TYRE WASTLAKE 1100/R20,DT,30-Sep-26,,30-Sep-26,,,22,Pcs,0,0,0,0,22,,,,OVER,Fast Moving,,Rp0,,Fast Moving
